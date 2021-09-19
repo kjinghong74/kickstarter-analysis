@@ -1,10 +1,10 @@
 # An Analysis of ***kickstarter Campaigns with Excel***
-##**Overview of Project**
+## **Overview of Project**
 This project is to analyze campain data with excel and display the trend how campain outcomes are influenced by variety of parameters.  
-###**Purpose**
+### **Purpose**
 Analyze and visualize campaign outcomes (successful, failed, and canceled) for theater and plays based on launch date and goals, respectively. 
-##**Analysis and Challenges**
-###**Analysis of outcomes based on Launch date**
+## **Analysis and Challenges**
+### **Analysis of outcomes based on Launch date**
 The campain outcomes (successful, failed, and canceled) for theater are analyzed and grouped in the launch month. The relationship between outcomes and lanuch month is displayed in pivot table and line chart. 
 ### **Analysis of outcomes based on Goals**
 The campain outcomes (successful, failed, and canceled) for plays are analyzed and grouped in the category of dollar-amount ranges. The relationship between outcomes and dollar-amount ranges is displayed in a line chart. 
@@ -14,6 +14,7 @@ The campain outcomes for successful, failed, and canceled campain are selected u
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/90361056/133930925-99869bf1-5016-4f2a-8965-695a157440e8.png)
 
 -Two conclusions draw about the outcomes based on launch date: (1) the peak of the successful theater compain is around May. Theater compain is more successful in spring and summer season then in winter, probably more campain events can be hold when weather is nice. (2) the theater compain is not likely by canceled in any month during and never be canceled in Oct.
+
 ![Plays Outcomes_vs_Goals](https://user-images.githubusercontent.com/90361056/133930958-aa1805de-0deb-40b8-97c9-b0c99bb08696.png)
 -The conclusion about the Outcomes based on Goals: plays compain is never been canceled and is most successful if the goal is in the dollar-amount range of<$5000. The outcomes turn out good also in the range of $35000-$44999.
 
