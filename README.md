@@ -15,7 +15,6 @@ The campain outcomes for successful, failed, and canceled campain are selected u
 
 -Two conclusions draw about the outcomes based on launch date: (1) the peak of the successful theater compain is around May. Theater compain is more successful in spring and summer season then in winter, probably more campain events can be hold when weather is nice. (2) the theater compain is not likely by canceled in any month during and never be canceled in Oct.
 ![Plays Outcomes_vs_Goals](https://user-images.githubusercontent.com/90361056/133930958-aa1805de-0deb-40b8-97c9-b0c99bb08696.png)
-
 -The conclusion about the Outcomes based on Goals: plays compain is never been canceled and is most successful if the goal is in the dollar-amount range of<$5000. The outcomes turn out good also in the range of $35000-$44999.
 
 -The limitations of this dataset: it doesn't show what kinds of factors influence the change of the outcomes. Such as in the data set for theater outcomes by lauch date. It looks that the successfu and failed campain follow the same trend. The number of successful increase only because there are more campain launched in the months of May and June, but it doesn't reflect how to increase the rate of successful.
